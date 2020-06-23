@@ -1,0 +1,76 @@
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.exe.config
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.exe
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.pdb
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csprojResolveAssemblyReference.cache
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.Properties.Resources.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csproj.GenerateResource.Cache
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.exe
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.pdb
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenci.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmAna.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniOgrenci.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOda.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniOda.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniYatak.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenciYatir.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmIzinTalep.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOdeme.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmIzinler.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmTumOdemeler.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYatakHareket.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenciGuncelle.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmGirisCikis.resources
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\itextsharp.dll
+D:\YurtYonetimSistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmAlacaklar.resources
+C:\Users\aykut\Desktop\Aykut ÖZEN 142114016  Canan DEMİRCİ 152114032\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.exe.config
+C:\Users\aykut\Desktop\Aykut ÖZEN 142114016  Canan DEMİRCİ 152114032\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.exe
+C:\Users\aykut\Desktop\Aykut ÖZEN 142114016  Canan DEMİRCİ 152114032\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.pdb
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.exe.config
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.exe
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.pdb
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmAlacaklar.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmAna.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmGirisCikis.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmIzinler.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmIzinTalep.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOda.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOdeme.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenci.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenciGuncelle.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenciYatir.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmTumOdemeler.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYatakHareket.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniOda.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniOgrenci.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniYatak.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.Properties.Resources.resources
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csproj.CopyComplete
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.exe
+C:\Users\Merve Gulacti\Desktop\Yurt Yonetim Sistemi\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.pdb
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.exe.config
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.exe
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\bin\Debug\YurtYonetimSistemi.pdb
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csprojAssemblyReference.cache
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmAlacaklar.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmAna.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmGirisCikis.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmIzinler.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmIzinTalep.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOda.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOdeme.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenci.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenciGuncelle.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmOgrenciYatir.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmTumOdemeler.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYatakHareket.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniOda.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniOgrenci.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.frmYeniYatak.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.Properties.Resources.resources
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csproj.GenerateResource.cache
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.csproj.CopyComplete
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.exe
+C:\Users\Merve Gulacti\Desktop\YurtYonetimSistemi\YurtYonetimSistemi\obj\Debug\YurtYonetimSistemi.pdb
